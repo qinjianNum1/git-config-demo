@@ -1,5 +1,5 @@
 data:
-  env: config-eureka-prop
+  env: config-client-prop
   user:
-    username: eureka-client-user-2
+    username: client-user-2
     password: 234567
